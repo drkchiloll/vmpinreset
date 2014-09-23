@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Users total="1">
+	<User>
+		<URI>/vmrest/users/2401c165-f2d1-4376-bdf1-d87ebadaa1ad</URI>
+		<ObjectId>2401c165-f2d1-4376-bdf1-d87ebadaa1ad</ObjectId>
+		<FirstName>Sam</FirstName>
+		<LastName>Womack</LastName>
+		<Alias>samwomack</Alias>
+		<DisplayName>Sam Womack</DisplayName>
+		<TimeZone>0</TimeZone>
+		<CreationTime>2014-04-01 19:56:35.03</CreationTime>
+		<CosObjectId>d7b4dc29-5151-4873-a9c2-73c1d53ffb6c</CosObjectId>
+		<CosURI>/vmrest/coses/d7b4dc29-5151-4873-a9c2-73c1d53ffb6c</CosURI>
+		<Language>0</Language>
+		<LocationObjectId>8a34dce2-0459-4d9b-8325-0aff59241679</LocationObjectId>
+		<LocationURI>/vmrest/locations/connectionlocations/8a34dce2-0459-4d9b-8325-0aff59241679</LocationURI>
+		<ListInDirectory>true</ListInDirectory>
+		<IsVmEnrolled>true</IsVmEnrolled>
+		<MediaSwitchObjectId>127750d9-59b3-44ef-83a5-c2bc0b83fa63</MediaSwitchObjectId>
+		<PhoneSystemURI>/vmrest/phonesystems/127750d9-59b3-44ef-83a5-c2bc0b83fa63</PhoneSystemURI>
+		<CallHandlerObjectId>8a366f37-42a9-44aa-b823-0a2661df79fe</CallHandlerObjectId>
+		<CallhandlerURI>/vmrest/handlers/callhandlers/8a366f37-42a9-44aa-b823-0a2661df79fe</CallhandlerURI>
+		<DtmfAccessId>7002</DtmfAccessId>
+		<VoiceNameRequired>false</VoiceNameRequired>
+		<PartitionObjectId>72075893-59ce-49a4-8763-ce5d62f45e58</PartitionObjectId>
+		<PartitionURI>/vmrest/partitions/72075893-59ce-49a4-8763-ce5d62f45e58</PartitionURI>
+		<MwisURI>/vmrest/users/2401c165-f2d1-4376-bdf1-d87ebadaa1ad/mwis</MwisURI>
+		<NotificationDevicesURI>/vmrest/users/2401c165-f2d1-4376-bdf1-d87ebadaa1ad/notificationdevices</NotificationDevicesURI>
+		<MessageHandlersURI>/vmrest/users/2401c165-f2d1-4376-bdf1-d87ebadaa1ad/messagehandlers</MessageHandlersURI>
+		<ExternalServiceAccountsURI>/vmrest/users/2401c165-f2d1-4376-bdf1-d87ebadaa1ad/externalserviceaccounts</ExternalServiceAccountsURI>
+		<AlternateExtensionsURI>/vmrest/users/2401c165-f2d1-4376-bdf1-d87ebadaa1ad/alternateextensions</AlternateExtensionsURI>
+		<PrivateListsURI>/vmrest/users/2401c165-f2d1-4376-bdf1-d87ebadaa1ad/privatelists</PrivateListsURI>
+		<SmtpProxyAddressesURI>/vmrest/smtpproxyaddresses?query=(ObjectGlobalUserObjectId%20is%202401c165-f2d1-4376-bdf1-d87ebadaa1ad)</SmtpProxyAddressesURI>
+		<AlternateNamesURI>/vmrest/alternatenames?query=(GlobalUserObjectId%20is%202401c165-f2d1-4376-bdf1-d87ebadaa1ad)</AlternateNamesURI>
+	</User>
+</Users>

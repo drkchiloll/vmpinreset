@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Credential>
+	<URI>/vmrest/users/2401c165-f2d1-4376-bdf1-d87ebadaa1ad/credential/pin</URI>
+	<UserObjectId>2401c165-f2d1-4376-bdf1-d87ebadaa1ad</UserObjectId>
+	<CredentialType>4</CredentialType>
+	<Credentials/>
+	<IsPrimary>false</IsPrimary>
+	<CantChange>false</CantChange>
+	<DoesntExpire>true</DoesntExpire>
+	<TimeChanged>2014-04-01 19:56:35.107</TimeChanged>
+	<HackCount>7</HackCount>
+	<Locked>false</Locked>
+	<TimeLastHack>2014-04-01 22:00:41.279</TimeLastHack>
+	<Alias>samwomack</Alias>
+	<CredMustChange>false</CredMustChange>
+	<CredentialPolicyObjectId>bd9808d7-71ea-4721-bcf2-7adc44d3058e</CredentialPolicyObjectId>
+	<TimeHacked>2014-04-01 22:00:41.277</TimeHacked>
+	<Hacked>true</Hacked>
+	<ObjectId>bc461736-71c2-4708-8c03-ba18553ed17a</ObjectId>
+	<EncryptionType>3</EncryptionType>
+</Credential>
